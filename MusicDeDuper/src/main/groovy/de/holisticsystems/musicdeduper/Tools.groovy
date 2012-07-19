@@ -7,8 +7,6 @@ package de.holisticsystems.musicdeduper
  * Time: 12:06
  * To change this template use File | Settings | File Templates.
  */
-
-
 def getExtension(filename) {
     String fileExtRegEx = /(\.[^\.]*)$/
     def returned_value = ""

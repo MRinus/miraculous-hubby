@@ -2,7 +2,7 @@
 <project version="4">
   <component name="GroovyCompilerConfiguration">
     <excludes>
-      <file url="file://$PROJECT_DIR$/src/main/java/de/holisticsystems/musicdeduper/MusicDeDuper.groovy" />
+      <file url="file://$PROJECT_DIR$/src/main/groovy/de/holisticsystems/musicdeduper/MusicDeDuper.groovy" />
     </excludes>
   </component>
 </project>
